@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace InventoryManagementSystem
 {
-    class Program
+    class Line
     {
-        static void Main(string[] args)
-        {
-
-        }
+        // This class coordinates the creation of line stocks 
+        // tis class represents individual stock lines in the oo modl. 
     }
 }
