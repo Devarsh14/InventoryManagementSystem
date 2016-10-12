@@ -11,7 +11,7 @@ namespace InventoryManagementSystem
         // This class coordinates the creation of line stocks 
         // tis class represents individual stock lines in the oo modl. .
         int line1;
-        line1= 33;
+        //line1= 33;
 
     }
 }

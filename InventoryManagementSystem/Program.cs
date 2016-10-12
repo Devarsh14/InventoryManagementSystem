@@ -10,6 +10,8 @@ namespace InventoryManagementSystem
     {
         static void Main(string[] args)
         {
+            DiscreteStockQuantity ds = new DiscreteStockQuantity(33);
+            Console.ReadKey();
 
         }
     }
